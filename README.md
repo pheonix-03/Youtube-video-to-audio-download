@@ -3,8 +3,8 @@
 - fast and sinple
 - works on any os
 # Requirements :
-- ffmpeg (if not installed use : sudo apt install ffmpeg)
 - python version > 3.8
+- pip3 installed if not install use : python get-pip.py (on windows)  , sudo apt-get install python3-pip python-dev (on linux)
 # Use
 - open the terminal in the directory where the python file is located
 - then type python3 down.py
