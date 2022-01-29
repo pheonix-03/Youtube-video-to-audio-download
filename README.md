@@ -5,6 +5,7 @@
 # Requirements :
 - python version > 3.8
 - pip3 installed if not install use : python get-pip.py (on windows)  , sudo apt-get install python3-pip python-dev (on linux)
+- ffmpeg is required (to install use "sudo apt install ffmpeg" or "sudo yum install ffmpeg ffmpeg-devel")
 # Use
 - open the terminal in the directory where the python file is located
 - then type python3 down.py
